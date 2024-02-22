@@ -1,3 +1,3 @@
 # Under construction..
 
-## Waiting for a response from ICUAS to publish results, pre-processing and dataset
+## Waiting for a response from ICUAS to publish the results, pre-processing and dataset due to the need for innovation
