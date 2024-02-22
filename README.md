@@ -1,4 +1,3 @@
-# STRAUSS_ICUAS-24
+# Under construction..
 
-Under construction...
-Waiting for a response from ICUAS to publish results, pre-processing and dataset
+## Waiting for a response from ICUAS to publish results, pre-processing and dataset
